@@ -1,9 +1,7 @@
-Q. Flashlight
+Flashlight
 =============
 
 The simplest, minimalistic, tiniest flashlight application ever, for Android!
-
-Try it now: https://play.google.com/store/apps/details?id=com.qandro.flashlight
 
 Usage
 =====
@@ -18,7 +16,6 @@ Features
  * No ads whatsoever
  * Only asks for permission for the camera and flashlight, nothing else
  * Open source, licensed under GPLv3
- * Developed by Qandro.
 
 Todo
 ====
@@ -27,12 +24,12 @@ Todo
 License
 =======
 
-Q. Flashlight is free software: you can redistribute it and/or modify
+Flashlight is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
 
-Q. Flashlight is distributed in the hope that it will be useful,
+Flashlight is distributed in the hope that it will be useful,
 but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details [here](http://www.gnu.org/licenses/).
